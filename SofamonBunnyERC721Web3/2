@@ -1,0 +1,19 @@
+{
+    "name": "Sofamon Bunny #2",
+    "image": "https://0x75ef7a481f5d047fdfd4d2e270a1690c31e49ada.gor.w3link.io/bunny.png",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Bunny"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Bunny"
+        },
+        {
+            "trait_type": "Collection",
+            "value": "Sofamon"
+        }
+    ],
+    "level": 0
+}
